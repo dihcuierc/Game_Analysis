@@ -39,7 +39,7 @@ Mini project for SC1015 (Introduction To Data Science And Artificial Intelligenc
 ## Something new we learn from this project
 1. [Obtaining the top 20 Publisher based on count](https://stackoverflow.com/questions/46623583/seaborn-countplot-order-categories-by-count)
 2. [Setting Category to Variable](https://www.youtube.com/watch?v=7EgN_71Xtdw)
-3. [Export DataFrame to csv?](https://stackoverflow.com/questions/16923281/writing-a-pandas-dataframe-to-csv-file)
+3. [Export DataFrame to csv?](https://datatofish.com/export-dataframe-to-csv/)
 4. Non-Linear Regression
 5. Random Forest Regression
 
