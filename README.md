@@ -40,8 +40,7 @@ Mini project for SC1015 (Introduction To Data Science And Artificial Intelligenc
 1. [Obtaining the top 20 Publisher based on count](https://stackoverflow.com/questions/46623583/seaborn-countplot-order-categories-by-count)
 2. [Setting Category to Variable](https://www.youtube.com/watch?v=7EgN_71Xtdw)
 3. [Export DataFrame to csv](https://datatofish.com/export-dataframe-to-csv/)
-4. Non-Linear Regression
-5. [Random Forest Regression](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
-6. [Lasso Ridge Regression](https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn)
+4. [Random Forest Regression](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
+5. [Lasso Ridge Regression](https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn)
 
 ## Reference
