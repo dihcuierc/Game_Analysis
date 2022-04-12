@@ -43,4 +43,3 @@ Mini project for SC1015 (Introduction To Data Science And Artificial Intelligenc
 4. [Random Forest Regression](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 5. [Lasso Ridge Regression](https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn)
 
-## Reference
