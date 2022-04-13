@@ -52,4 +52,6 @@ However, we do note that these variables in the data set are not the only factor
 3. [Export DataFrame to csv](https://datatofish.com/export-dataframe-to-csv/)
 4. [Random Forest Regression](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 5. [Lasso, Ridge Regression](https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn)
+6. [Collab work using google collab](https://colab.research.google.com)
+
 
