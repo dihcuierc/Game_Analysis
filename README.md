@@ -51,5 +51,5 @@ However, we do note that these variables in the data set are not the only factor
 2. [Setting Category to Variable](https://www.youtube.com/watch?v=7EgN_71Xtdw)
 3. [Export DataFrame to csv](https://datatofish.com/export-dataframe-to-csv/)
 4. [Random Forest Regression](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
-5. [Lasso Ridge Regression](https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn)
+5. [Lasso, Ridge Regression](https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn)
 
