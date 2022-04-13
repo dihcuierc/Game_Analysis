@@ -1,7 +1,7 @@
 # Game_Analysis
-
+![image](https://user-images.githubusercontent.com/51332449/163271754-6e662d9b-5f96-4a57-8ec6-9a2b63716870.png)
 ## Motivation 
-[As of 2021, there are over two billion gamers across the world, which is 26% of the world’s population
+[As of 2021, there are over two billion gamers across the world, which is 26% of the world’s population <br />
 In 2020, the gaming industry generated $155 billion in revenue, which is predicted to grow to more than $260 billion by 2025](https://www.investopedia.com/articles/investing/053115/how-video-game-industry-changing.asp ) 
 ## About
 Mini project for SC1015 (Introduction To Data Science And Artificial Intelligence) 
