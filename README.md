@@ -4,8 +4,7 @@
 [As of 2021, there are over two billion gamers across the world, which is 26% of the world’s population <br />
 In 2020, the gaming industry generated $155 billion in revenue, which is predicted to grow to more than $260 billion by 2025](https://www.investopedia.com/articles/investing/053115/how-video-game-industry-changing.asp ) 
 ## About
-Mini project for SC1015 (Introduction To Data Science And Artificial Intelligence) 
-
+Mini project for SC1015 (Introduction To Data Science And Artificial Intelligence) <br />
 Aim to predict the games sales using data from [Kaggle Video Games Sales Dataset](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)
 
 ## Contributors
@@ -41,8 +40,8 @@ However, we do note that these variables in the data set are not the only factor
 
 ## Application of Knowledge
 1. Exploratory Data Analysis
-2. Cleaning DataSet (drop Nan, Remove outliers)
-3. Use of plots (Boxplot, Catplot, Bargraph, heatmap)
+2. Cleaning DataSet (Drop Nan, Remove Outliers)
+3. Use of plots (Boxplot, Catplot, Countplot, Bargraph, Heatmap)
 4. Correlations
 5. Linear Regression
 
