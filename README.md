@@ -40,9 +40,9 @@ However, we do note that these variables in the data set are not the only factor
 ## Application of Knowledge
 1. Exploratory Data Analysis
 2. Cleaning DataSet (drop Nan, Remove outliers)
-3. Linear Regression
+3. Use of plots(Boxplot, Catplot, Bargraph, heatmap)
 4. Correlations
-5. Use of plots(Boxplot, Catplot, Bargraph, heatmap)
+5. Linear Regression
 
 ## Something new we learn from this project
 1. [Obtaining the top 20 Publisher based on count](https://stackoverflow.com/questions/46623583/seaborn-countplot-order-categories-by-count)
