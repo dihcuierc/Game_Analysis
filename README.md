@@ -42,7 +42,7 @@ However, we do note that these variables in the data set are not the only factor
 ## Application of Knowledge
 1. Exploratory Data Analysis
 2. Cleaning DataSet (drop Nan, Remove outliers)
-3. Use of plots(Boxplot, Catplot, Bargraph, heatmap)
+3. Use of plots (Boxplot, Catplot, Bargraph, heatmap)
 4. Correlations
 5. Linear Regression
 
