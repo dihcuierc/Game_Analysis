@@ -49,9 +49,9 @@ However, we do note that these variables in the data set are not the only factor
 ## Something new we learn from this project
 1. [Obtaining the top 20 Publisher based on count](https://stackoverflow.com/questions/46623583/seaborn-countplot-order-categories-by-count)
 2. [Setting Category to Variable](https://www.youtube.com/watch?v=7EgN_71Xtdw)
-3. [Export DataFrame to csv](https://datatofish.com/export-dataframe-to-csv/)
+3. [Export DataFrame to CSV](https://datatofish.com/export-dataframe-to-csv/)
 4. [Random Forest Regression](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 5. [Lasso, Ridge Regression](https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn)
-6. [Collab work using google collab](https://colab.research.google.com)
+6. [Collab work using Google Colab](https://colab.research.google.com)
 
 
