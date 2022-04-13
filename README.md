@@ -7,9 +7,9 @@ In 2020, the gaming industry generated $155 billion in revenue, which is predict
 Mini project for SC1015 (Introduction To Data Science And Artificial Intelligence) which aim to predict the games sales using data from [Kaggle Video Games Sales Dataset](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)
 
 ## Contributors
-- Ernest Lee
-- Tan Meng Hong
-- Brian Lua
+- Ernest Lee (Exploratory data analysis)
+- Brian Lua (Linear regression, Github)
+- Tan Meng Hong (Ridge, Lasso, Random Forest Regression
 
 ## Problem
 - Are we able to predict global sales?
@@ -28,15 +28,14 @@ Mini project for SC1015 (Introduction To Data Science And Artificial Intelligenc
 3. [Linear Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/3.%20Linear%20Regression.ipynb)
 4. [Removing Outliers](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/4.%20Removing%20Outliers.ipynb)
 5. [Linear Regression After Filter](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/5.%20Linear%20Regression%20After%20Filter.ipynb)
-6. [Random forest](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/8.%20Random%20forest.ipynb)
-7. [Ridge, Lasso, Elastic](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/9.%20Ridge%2C%20Lasso%2C%20Elastic.ipynb)
+6. [Random Forest](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/8.%20Random%20forest.ipynb)
+7. [Ridge, Lasso](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/9.%20Ridge%2C%20Lasso%2C%20Elastic.ipynb)
 
 ## Conclusion
-1.
-2.
-3.
-4.
-5.
+From this project, we learned how to use different learning functions such as random forest regression and regularisation methods such as lasso and ridge regression. Using our machine learning model, we learned how to predict video games global sales using various data such as genre, platform and publisher. New video game creators can create a new game based on the machine model predictions of global sales and choose which company to partner with.  
+
+However, we do note that these variables in the data set are not the only factors that can affect the sales of a video game. Factors such as advertisement, quality of the game and improvements in technology in the gaming industry, can help to boost the sales of the games greatly, which will hinder the effectiveness of our model.
+
 
 ## Application of Knowledge
 1. Exploratory Data Analysis
