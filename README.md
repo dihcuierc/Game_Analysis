@@ -31,7 +31,7 @@ Aim to predict the games sales using data from [Kaggle Video Games Sales Dataset
 3. [Linear Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/3.%20Linear%20Regression.ipynb)
 4. [Removing Outliers](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/4.%20Removing%20Outliers.ipynb)
 5. [Linear Regression After Filter](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/5.%20Linear%20Regression%20After%20Filter.ipynb)
-6. [Random Forest Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/8.%20Random%20forest.ipynb)
+6. [Random Forest Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/6.%20Random%20forest.ipynb)
 7. [Ridge, Lasso Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/9.%20Ridge%2C%20Lasso%2C%20Elastic.ipynb)
 
 ## ✏️ Conclusion
