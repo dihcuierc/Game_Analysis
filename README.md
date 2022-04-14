@@ -5,7 +5,7 @@
 In 2020, the gaming industry generated $155 billion in revenue, which is predicted to grow to more than $260 billion by 2025](https://www.investopedia.com/articles/investing/053115/how-video-game-industry-changing.asp ) 
 ## 🤷‍♂️ About
 Mini project for SC1015 (Introduction To Data Science And Artificial Intelligence) <br />
-Aim to predict the games sales using data from [Kaggle Video Games Sales Dataset](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)
+Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)
 
 
 ## 💻 Contributors
@@ -54,6 +54,5 @@ However, we do note that these variables in the data set are not the only factor
 3. [Export DataFrame to CSV](https://datatofish.com/export-dataframe-to-csv/)
 4. [Random Forest Regression](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 5. [Lasso, Ridge Regression](https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn)
-6. [Collab work using Google Colab](https://colab.research.google.com)
-
-
+6. [Importance feature](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Ridge.html)
+7. [Collab work using Google Colab](https://colab.research.google.com)
