@@ -11,7 +11,7 @@ Aim to predict the games sales using data from [Kaggle Video Games Sales Dataset
 ## 💻 Contributors
 - Tan Meng Hong (Exploratory data analysis)
 - Brian Lua (Linear regression, Github)
-- Ernest Lee (Ridge, Lasso, Random Forest Regression  <br />                                       
+- Ernest Lee (Ridge, Lasso, Random Forest Regression)  <br />                                       
 ![penguin](https://user-images.githubusercontent.com/51332449/163318284-c45377c4-3194-4cd6-b0bf-88ce4401f528.gif)
 
 
@@ -50,7 +50,7 @@ However, we do note that these variables in the data set are not the only factor
 
 ## 📚 Something new we learn from this project
 1. [Obtaining the top 20 Publisher based on count](https://stackoverflow.com/questions/46623583/seaborn-countplot-order-categories-by-count)
-2. [Setting Category to Variable](https://www.youtube.com/watch?v=7EgN_71Xtdw)
+2. [Setting Category to Numerical](https://www.youtube.com/watch?v=7EgN_71Xtdw)
 3. [Export DataFrame to CSV](https://datatofish.com/export-dataframe-to-csv/)
 4. [Random Forest Regression](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 5. [Lasso, Ridge Regression](https://www.pluralsight.com/guides/linear-lasso-ridge-regression-scikit-learn)
