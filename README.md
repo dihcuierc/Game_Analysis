@@ -40,6 +40,7 @@ From this project, we learned how to use different learning functions such as ra
 
 However, we do note that these variables in the data set are not the only factors that can affect the sales of a video game. Factors such as advertisement, quality of the game and improvements in technology in the gaming industry, can help to boost the sales of the games greatly, which will hinder the effectiveness of our model.
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/51332449/163321790-eaedd7db-3bb6-457e-98da-496c29c0b3e7.gif)
 
 ## 📖 Application of Knowledge
 1. Exploratory Data Analysis
