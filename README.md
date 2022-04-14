@@ -7,10 +7,12 @@ In 2020, the gaming industry generated $155 billion in revenue, which is predict
 Mini project for SC1015 (Introduction To Data Science And Artificial Intelligence) <br />
 Aim to predict the games sales using data from [Kaggle Video Games Sales Dataset](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset?select=Video_Games_Sales_as_at_22_Dec_2016.csv)
 
+
 ## Contributors
 - Ernest Lee (Exploratory data analysis)
 - Brian Lua (Linear regression, Github)
 - Tan Meng Hong (Ridge, Lasso, Random Forest Regression
+![penguin](https://user-images.githubusercontent.com/51332449/163318284-c45377c4-3194-4cd6-b0bf-88ce4401f528.gif)
 
 ## Problem
 - Are we able to predict global sales?
