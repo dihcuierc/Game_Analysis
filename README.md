@@ -9,10 +9,10 @@ Aim to predict the games sales using data from [Kaggle Video Games Sales Dataset
 
 
 ## 💻 Contributors
-- Ernest Lee (Exploratory data analysis)💻
+- Ernest Lee (Exploratory data analysis)
 - Brian Lua (Linear regression, Github)
 - Tan Meng Hong (Ridge, Lasso, Random Forest Regression  <br />                                       
-                                                                             ![penguin](https://user-images.githubusercontent.com/51332449/163318284-c45377c4-3194-4cd6-b0bf-88ce4401f528.gif)
+![penguin](https://user-images.githubusercontent.com/51332449/163318284-c45377c4-3194-4cd6-b0bf-88ce4401f528.gif)
 
 
 ## 🔍 Problem
@@ -27,7 +27,7 @@ Aim to predict the games sales using data from [Kaggle Video Games Sales Dataset
 - Ridge, Lasso Regression
 
 ## 💡 Steps we took
-1. [Cleaning and Restructure](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/1.%20Cleaning%20and%20Restructure.ipynb) 🗑
+1. [Cleaning and Restructure](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/1.%20Cleaning%20and%20Restructure.ipynb) 
 2. [Data Visual](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/2.%20Data%20Visual.ipynb)
 3. [Linear Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/3.%20Linear%20Regression.ipynb)
 4. [Removing Outliers](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/4.%20Removing%20Outliers.ipynb)
