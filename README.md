@@ -21,7 +21,7 @@ Aim to predict the games sales using data from [Kaggle Video Games Sales Dataset
 ## Model Used
 - Linear Regression
 - Random Forest Regression
-- Ridge, Lasso, Elastic
+- Ridge, Lasso Regression
 
 ## Steps we took
 1. [Cleaning and Restructure](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/1.%20Cleaning%20and%20Restructure.ipynb)
