@@ -35,7 +35,7 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
 7. [Lasso, Ridge Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/7.%20Lasso%2C%20Ridge.ipynb)
 
 ## 💡 Conclusion
-From this project, we learned how to use different learning functions such as random forest regression and regularisation methods such as lasso and ridge regression. Using our machine learning model, we learned how to predict video games global sales using various data such as genre, platform and publisher. New video game creators can create a new game based on the machine model predictions of global sales and choose which company to partner with.  
+From our machine learning we learnt the following. Video game creators should create a simulation game as it would generate the highest global sales. They should also liaise with Nintendo as they have the highest probability of generating highest revenue and the game rating is recommended to be ‘AO’. We also recommend that games be created on the PS2 or Wii platform as they are the more popular gaming platforms and would have the highest global sales. 
 
 However, we do note that these variables in the data set are not the only factors that can affect the sales of a video game. Factors such as advertisement, quality of the game and improvements in technology in the gaming industry, can help to boost the sales of the games greatly, which will hinder the effectiveness of our model.
 
