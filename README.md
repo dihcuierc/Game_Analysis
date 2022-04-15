@@ -32,7 +32,7 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
 4. [Removing Outliers](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/4.%20Removing%20Outliers.ipynb)
 5. [Linear Regression After Filter](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/5.%20Linear%20Regression%20After%20Filter.ipynb)
 6. [Random Forest Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/6.%20Random%20forest.ipynb)
-7. [Lasso, Ridge Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/9.%20Ridge%2C%20Lasso%2C%20Elastic.ipynb)
+7. [Lasso, Ridge Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/7.%20Lasso%2C%20Ridge.ipynb)
 
 ## 💡 Conclusion
 From this project, we learned how to use different learning functions such as random forest regression and regularisation methods such as lasso and ridge regression. Using our machine learning model, we learned how to predict video games global sales using various data such as genre, platform and publisher. New video game creators can create a new game based on the machine model predictions of global sales and choose which company to partner with.  
