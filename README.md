@@ -28,19 +28,21 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
 ## ✏️ Steps we took
 1. [Cleaning and Restructure](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/1.%20Cleaning%20and%20Restructure.ipynb) 
 
-   ```In this notebook, we did basic data preparation. removing columns contains Nan values. 
-      Restructuring from a Dataset having 583 Publisher to 20 top Publisher with the most number of sales
-      Removing presence of a very big outlier, which belonged to the data for ‘Wii Sports’.
-      We felt that this data would greatly affect the model between the variables and Global Sales,
+  ```
+   - In this notebook, we did basic data preparation. removing columns contains Nan values. 
+   - Restructuring from a Dataset having 583 Publisher to 20 top Publisher with the most number of sales
+   - Removing presence of a very big outlier, which belonged to the data for ‘Wii Sports’.
+   - We felt that this data would greatly affect the model between the variables and Global Sales,
       so we removed this particular outlier.
-   ```
+  ```
 2. [Data Visual](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/2.%20Data%20Visual.ipynb)
-   ```In this notebook, we did basic data preparation. removing columns contains Nan values. 
-      Restructuring from a Dataset having 583 Publisher to 20 top Publisher with the most number of sales
-      Removing presence of a very big outlier, which belonged to the data for ‘Wii Sports’.
-      We felt that this data would greatly affect the model between the variables and Global Sales,
-      so we removed this particular outlier.
-   ```
+
+  ```
+   - In this notebook, we ploted multiple Countplots based on Publisher, Genre, Platform, Year of Release,
+   - We also ploted Boxplots for variables: Critic score, User score, Platform, Publisher, Genre,
+     against Global Sales
+   - Ending off with a heat map, showing the correlation between all the variables.
+  ```
 4. [Linear Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/3.%20Linear%20Regression.ipynb)
 5. [Removing Outliers](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/4.%20Removing%20Outliers.ipynb)
 6. [Linear Regression After Filter](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/5.%20Linear%20Regression%20After%20Filter.ipynb)
