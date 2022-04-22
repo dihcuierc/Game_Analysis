@@ -38,9 +38,9 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
 2. [Data Visual](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/2.%20Data%20Visual.ipynb)
 
   ```
-   - In this notebook, we ploted multiple Countplots
+   - In this notebook, we plotted multiple Countplots
    - Based on Publisher, Genre, Platform, Year of Release
-   - We also ploted Boxplots for variables: Critic score, User score, Platform, Publisher, Genre,
+   - We also plotted Boxplots for variables: Critic score, User score, Platform, Publisher, Genre,
      against Global Sales
    - Ending off with a heat map, showing the correlation between all the variables.
   ```
