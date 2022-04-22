@@ -32,7 +32,7 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
 4. [Removing Outliers](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/4.%20Removing%20Outliers.ipynb)
 5. [Linear Regression After Filter](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/5.%20Linear%20Regression%20After%20Filter.ipynb)
 6. [Random Forest Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/6.%20Random%20forest.ipynb)
-7. [Lasso, Ridge Regression, Importance Value](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/7.%20Lasso%2C%20Ridge%2C%20Importance%20value.ipynb)
+7. [Lasso, Ridge Regression, Importance Values](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/7.%20Lasso%2C%20Ridge%2C%20Importance%20value.ipynb)
 
 ## 💡 Conclusion
 From our machine learning we learnt the following. Video game creators should create a simulation game as it would generate the highest global sales. They should also liaise with Nintendo as they have the highest probability of generating highest revenue and the game rating is recommended to be ‘AO’. We also recommend that games be created on the PS2 or Wii platform as they are the more popular gaming platforms and would have the highest global sales. 
