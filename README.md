@@ -9,7 +9,7 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
 
 
 ## 💻 Contributors
-- Tan Meng Hong (Exploratory data analysis)
+- [Tan Meng Hong](https://github.com/MangoTMH) (Exploratory data analysis)
 - [Brian Lua](https://github.com/Sealpillow) (Linear regression, Github)
 - [Ernest Lee](https://github.com/dihcuierc) (Ridge, Lasso, Random Forest Regression, Importance values)  <br />                                       
 ![penguin](https://user-images.githubusercontent.com/51332449/163318284-c45377c4-3194-4cd6-b0bf-88ce4401f528.gif)
