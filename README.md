@@ -27,7 +27,6 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
 
 ## ✏️ Steps we took
 1. [Cleaning and Restructure](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/1.%20Cleaning%20and%20Restructure.ipynb) 
-
   ```
    - In this notebook, we did basic data preparation, by removing columns contains NaN values. 
    - Restructuring from a Dataset having 583 Publisher to top 20 Publisher with the most number of sales
@@ -36,7 +35,6 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
      so we removed this particular outlier.
   ```
 2. [Data Visual](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/2.%20Data%20Visual.ipynb)
-
   ```
    - In this notebook, we plotted multiple Countplots
    - Based on Publisher, Genre, Platform, Year of Release
