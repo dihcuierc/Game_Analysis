@@ -44,7 +44,7 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
 3. [Linear Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/3.%20Linear%20Regression.ipynb)
   ```
    - In this notebook, we plotted multiple Linear regression models against Global Sales 
-   - Based on Critic Score, User Score, Year of Release and Critic Score with User Score as a combined variable
+   - Based on Critic Score,User Score, Year of Release and Critic Score with User Score as a combined variable
   ```
 4. [Removing Outliers](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/4.%20Removing%20Outliers.ipynb)
   ```
