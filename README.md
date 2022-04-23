@@ -30,9 +30,8 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
   ```
    - In this notebook, we did basic data preparation, by removing columns contains NaN values. 
    - Restructuring from a Dataset having 583 Publisher to top 20 Publisher with the most number of sales
-   - Removing presence of a very big outlier, which belonged to the data for ‘Wii Sports’.
-   - We felt that this data would greatly affect the model between the variables and Global Sales,
-     so we removed this particular outlier.
+   - Removing presence big outlier, which belonged to the data for ‘Wii Sports’.
+   - We felt that this data would greatly affect the model between the variables and Global Sales.
   ```
 2. [Data Visual](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/2.%20Data%20Visual.ipynb)
   ```
