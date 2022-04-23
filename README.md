@@ -28,32 +28,32 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
 ## ✏️ Steps we took
 1. [Cleaning and Restructure](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/1.%20Cleaning%20and%20Restructure.ipynb) 
   ```
-   - In this notebook, we did basic data preparation, by removing columns contains NaN values. 
-   - Restructuring from a Dataset having 583 Publisher to top 20 Publisher with the most number of sales
-   - Removing presence big outlier, which belonged to the data for ‘Wii Sports’.
-   - We felt that this data would greatly affect the model between the variables and Global Sales.
+  - In this notebook, we did basic data preparation, by removing columns contains NaN values. 
+  - Restructuring from a Dataset having 583 Publisher to top 20 Publisher with the most number of sales
+  - Removing presence big outlier, which belonged to the data for ‘Wii Sports’.
+  - We felt that this data would greatly affect the model between the variables and Global Sales.
   ```
 2. [Data Visual](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/2.%20Data%20Visual.ipynb)
   ```
-   - In this notebook, we plotted multiple Countplots
-   - Based on Publisher, Genre, Platform, Year of Release
-   - We also plotted Boxplots for variables: Critic score, User score, Platform, Publisher, Genre,
-     against Global Sales
-   - Ending off with a heat map, showing the correlation between all the variables.
+  - In this notebook, we plotted multiple Countplots
+  - Based on Publisher, Genre, Platform, Year of Release
+  - We also plotted Boxplots for variables: Critic score, User score, Platform, Publisher, Genre,
+    against Global Sales  
+  - Ending off with a heat map, showing the correlation between all the variables.
   ```
 3. [Linear Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/3.%20Linear%20Regression.ipynb)
   ```
-   - In this notebook, we plotted multiple Linear regression models against Global Sales 
-   - Based on Critic Score,User Score, Year of Release and Critic Score with User Score as a combined variable
+  - In this notebook, we plotted multiple Linear regression models against Global Sales 
+  - Based on Critic Score,User Score, Year of Release and Critic Score with User Score as a combined variable
   ```
 4. [Removing Outliers](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/4.%20Removing%20Outliers.ipynb)
   ```
-   - In this notebook, we removed outliers to further clean the dataset.
+  - In this notebook, we removed outliers to further clean the dataset.
   ```
 5. [Linear Regression After Filter](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/5.%20Linear%20Regression%20After%20Filter.ipynb)
   ```
-   - In this notebook, we plotted multiple Linear regression models against Global Sales 
-   - Based on Critic Score and User Score to check any improvement in Linear Regression Model
+  - In this notebook, we plotted multiple Linear regression models against Global Sales 
+  - Based on Critic Score and User Score to check any improvement in Linear Regression Model
   ```
 6. [Random Forest Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/6.%20Random%20forest.ipynb)
   ```
