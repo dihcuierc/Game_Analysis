@@ -43,7 +43,7 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
   ```
 3. [Linear Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/3.%20Linear%20Regression.ipynb)
   ```
-   - In this notebook, we ploted multiple Linear regression models against Global Sales 
+   - In this notebook, we plotted multiple Linear regression models against Global Sales 
    - Based on Critic Score, User Score, Year of Release, 
      and Critic Score with User Score as a combined variable
   ```
@@ -53,7 +53,7 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
   ```
 5. [Linear Regression After Filter](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/5.%20Linear%20Regression%20After%20Filter.ipynb)
   ```
-   - In this notebook, we ploted multiple Linear regression models against Global Sales 
+   - In this notebook, we plotted multiple Linear regression models against Global Sales 
    - Based on Critic Score and User Score to check any improvement in Linear Regression Model
   ```
 6. [Random Forest Regression](https://github.com/Sealpillow/Game_Analysis/blob/main/NoteBooks/6.%20Random%20forest.ipynb)
