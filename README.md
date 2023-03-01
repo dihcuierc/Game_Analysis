@@ -66,7 +66,7 @@ Aim to predict the Games Sales using data from [Kaggle Video Games Sales Dataset
     and what games Game Creators should create
   ```
 ## 💡 Conclusion
-From our machine learning we learnt the following. Video game creators should create a simulation game as it would generate the highest global sales. They should also liaise with Nintendo as they have the highest probability of generating highest revenue and the game rating is recommended to be ‘AO’. We also recommend that games be created on the PS2 or Wii platform as they are the more popular gaming platforms and would have the highest global sales. 
+From our machine learning we learnt the following. Video game creators should create a simulation game as it would generate the highest global sales. They should also liaise with Nintendo as they have the highest probability of generating highest revenue and the game rating is recommended to be ‘AO’(Adults Only). We also recommend that games be created on the PS2 or Wii platform as they are the more popular gaming platforms and would have the highest global sales. 
 
 However, we do note that these variables in the data set are not the only factors that can affect the sales of a video game. Factors such as advertisement, quality of the game and improvements in technology in the gaming industry, can help to boost the sales of the games greatly, which will hinder the effectiveness of our model.
 
